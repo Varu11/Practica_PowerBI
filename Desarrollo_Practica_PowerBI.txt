@@ -1,0 +1,24 @@
+Para el desarrollo de esta práctica, he creado 3 cuadros de mando, centrado en diferentes relaciones, que giran en torno a las habitaciones.
+
+1. Relación precio con nº habitaciones por barrio.
+He mostrado 2 gráficas:
+A) Precio medio (eje Y) y nº habitaciones por barrio (eje X)( He generado un sub eje de nº habitaciones por cada barrio).
+Sobre esta gráfica, he creado un tooltip, que al posicionarse en cada barra, indica el tipo de vivienda que se puede ofrecer (seleccionando las 7 opciones más utilizadas).
+
+B) Diagrama sectorial, haciendo un sumatorio de viviendas en función del nº de habitaciones.
+
+C) Diagrama evolutivo interanual y por barrio de las viviendas ofrecidas según el nº de habitaciones.
+
+Este primer dashboard es con información más general.
+
+
+
+2. RELACIÓN DE HABITACIONES Y CAMAS POR BARRIO.
+El diagrama muestra la relación de camas que hay por habitación y barrio.
+He introducido adicionalmente la línea de promedio de camas y habitaciones.
+
+
+
+3. PLANO MADRID
+Sobre el plano Madrid, he filtrado para que se visualicen las viviendas con 0,1,2,3,4 y 5 habitaciones.
+He creado un tooltip, para que cuando posicionas sobre cualquiera de las viviendas, salga una pequeña tabla informativa, indicando el precio de la casa, los metros cuadrados que tiene, el periodo de disponibilidad anual y el tipo de camas que dispone.
